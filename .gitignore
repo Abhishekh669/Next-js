@@ -30,7 +30,7 @@ yarn-error.log*
 
 #env file ignore
 # Ignore environment-specific configuration files
-.env*
+.env
 
 
 # vercel
